@@ -7,11 +7,11 @@ public class RockPSGame {
 
     public static void main(String[] args) {
 
-        // code to get random number from 200 to 400.
+        // code to get random number from 200 to 300.
         // int randomNumber = ran.nextInt(100);
-        // System.out.println(randomNumber + 200);
+        // System.out.println(randomNumber + 201);
 
-        // rock paper scissor rock>scissor, scissor>paper, paper > rock. call rock-1 paper-2, scissor-3
+        // rock paper scissor rock>scissor, scissor>paper, paper > rock. call number for rock-1 paper-2, scissor-3
 
         Random ran = new Random();
         Scanner scn = new Scanner(System.in);
