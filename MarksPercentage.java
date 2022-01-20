@@ -8,7 +8,7 @@ public class MarksPercentage {
     public static void main(String[] args) {
         int m1,m2,m3,m4;
         float avg;
-        System.out.println("Please enter marks for all 5 subjects : ");
+        System.out.println("Please enter marks for all 4 subjects : ");
         Scanner scn = new Scanner(System.in);
         m1 = scn.nextInt();
         m2 = scn.nextInt();
