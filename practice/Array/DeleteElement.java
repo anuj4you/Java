@@ -20,6 +20,9 @@ public class DeleteElement {
         for (int i = index; i < a1.length - 1; i++) {
             a1[i] = a1[i + 1];
         }
+        
+        //delete the last element as deleting an element also, make (a1.length-2) = 0 & (a1.length--)
+        
         a1[9] = 0;
 
         System.out.println(Arrays.toString(a1));
