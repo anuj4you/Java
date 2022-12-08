@@ -1,1 +1,2 @@
-practices and exercises on java 
+DSA 
+Practices and exercises on DSA in java
